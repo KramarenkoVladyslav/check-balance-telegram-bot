@@ -78,7 +78,7 @@ Once the bot is up and running:
    - The bot will then ask: 
      - `Будь ласка, введіть свій публічний ключ для перевірки балансу.`
    - After you enter your public key, the bot will respond with:
-     - `Ваш баланс: ${formattedBalance} ETH`
+     - `Ваш баланс: 1.2834 ETH`
 
 ---
 
